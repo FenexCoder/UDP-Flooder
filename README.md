@@ -8,8 +8,7 @@ With this tool you can also decide how many packets to send, and be able to get 
 
 
 ![udp attack](https://user-images.githubusercontent.com/107760092/174459105-46a107ee-0089-4650-8744-c190a867f97c.png)
-![IP GETTER](https://user-images.githubusercontent.com/107760092/174459106-888709ea-bc72-43ac-89a2-469658b61c7f.png)
-
+![Ip getter](https://user-images.githubusercontent.com/107760092/174459282-20292893-db98-4785-8b1f-59c5f8ad5372.png)
 
 
 Disclaimer
