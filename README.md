@@ -6,8 +6,10 @@ With this tool you can also decide how many packets to send, and be able to get 
 
 
 
-![udp flooder](https://user-images.githubusercontent.com/107760092/174458703-945827f4-4166-44ff-a42f-f62825875a2a.png)
-![IP GETTER](https://user-images.githubusercontent.com/107760092/174458704-72c47e09-cd41-43a1-943e-c1fc3bc674cf.png)
+
+![udp attack](https://user-images.githubusercontent.com/107760092/174459105-46a107ee-0089-4650-8744-c190a867f97c.png)
+![IP GETTER](https://user-images.githubusercontent.com/107760092/174459106-888709ea-bc72-43ac-89a2-469658b61c7f.png)
+
 
 
 Disclaimer
